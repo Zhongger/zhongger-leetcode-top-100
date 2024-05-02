@@ -1,4 +1,4 @@
-package com.zhongger.merge_two_array;
+package com.zhongger;
 
 import java.util.Arrays;
 
